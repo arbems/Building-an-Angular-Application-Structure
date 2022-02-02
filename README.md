@@ -23,7 +23,7 @@ Un módulo siempre tendrá un nombre y, con el supuesto de enrutamiento, tambié
 
 
 ## References
-https://medium.com/god-dev-blog/building-an-angular-application-structure-ef4cee9da934
+
 
 ## Enlaces
 [Angular Styleguide](https://angular.io/guide/styleguide)
